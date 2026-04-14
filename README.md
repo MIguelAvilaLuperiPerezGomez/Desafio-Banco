@@ -30,3 +30,34 @@ java Main
 ---
 
 ## Exemplo de uso
+1- Consultar saldos
+2- Receber valor
+3- Transferir valor
+4- Sair
+
+1
+2500.0
+
+
+2
+Digite o Valor a receber: 500.0
+
+
+1
+3000.0
+---
+
+## Tecnologias
+
+- Java SE
+- `java.util.Scanner` — leitura do console
+- `switch` + `while` — controle de fluxo
+
+---
+
+## Estrutura do projeto
+banco-java/
+└── Main.java
+---
+
+Projeto desenvolvido para fins de estudo — Java orientado a console.
