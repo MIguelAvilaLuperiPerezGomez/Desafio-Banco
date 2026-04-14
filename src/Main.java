@@ -6,8 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        String nome = "Miguel Avila Luperi Perez Gomez";
-        String tipoConta = "Corrente";
+        
         Double Saldo = 2500.0;
         int escolha = 0;
         while(escolha != 4){
